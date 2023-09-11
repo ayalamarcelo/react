@@ -12,7 +12,7 @@ npm create vite@latest
 ```
 cd 00-hola-mundo
 npm install
-nom run dev
+npm run dev
 ```
 
 ### Nos devuelve: 
@@ -29,5 +29,24 @@ VITE v4.4.9  ready in 426 ms
 ```
 code .
 ```
+o
 
-#### [49:13]
+## Usage
+
+Crear un directorio
+
+```
+hello-react
+```
+Luego abrimos el terminal y usamos el `npm`:
+
+```
+npm create-create-app .
+```
+Y un punto para indicarle que el directorio donde se va a ejecutar es justo donde estamos.
+De esta manera se crea la estructura por defecto de un app con React.
+
+```
+npm start
+```
+
